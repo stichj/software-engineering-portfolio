@@ -39,7 +39,7 @@ A classic arcade-style asteroid shooter, rebuilt from scratch using PyGame.
 
 **Key Features:**
 - Real-time game loop with responsive controls
-- Collision detection and score tracking
+- Collision detection
 - Focus on object-oriented design and game state handling
 
 
