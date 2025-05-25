@@ -1,6 +1,21 @@
 # 👨‍💻 Software Engineering Portfolio
 
-Welcome! I am a backend-focused software engineer with a passion for building solid, well-tested, and practical applications. Below is a curated selection of my personal projects demonstrating my skills in Python, Java, Spring Boot, and system design.
+Welcome! I am a backend-focused software engineer with a passion for building solid, well-tested, and practical applications. Below is a curated selection of my personal projects demonstrating my skills in Java, Spring Boot, Go, Python, and system design.
+
+
+## 💬 [TCP Chat App in Go](https://github.com/stichj/chat-app.git)
+**Go | TCP Sockets | net Package | Docker**
+
+A real-time chat app over TCP sockets, with a terminal client interface.
+
+**Key Features:**
+- Real-time messaging over TCP
+- Supports multiple clients concurrently
+- Username prompt for personalization
+- Graceful client disconnection via `/quit`, `/q`, or `Ctrl+C`
+- Pub/Sub-pattern to manage client registration, broadcasting, and deregistration
+- Dockerized server and client containers for local development
+
 
 
 
